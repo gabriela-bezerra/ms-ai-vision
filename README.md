@@ -4,13 +4,13 @@ This repository contains my exploration and experimentation with Microsoft Azure
 
 ## AI Vision
 
-I accessed the Vision Studio ([https://portal.vision.cognitive.azure.com/](https://portal.vision.cognitive.azure.com/)) and set a default resource to begin my experimentation.
+I accessed the [Vision Studio](https://portal.vision.cognitive.azure.com/) and set a default resource to begin my experimentation.
 
 ### Face - Detect Faces in an Image
 
 I used the Face API to detect faces within an image. It accurately identified and located the faces present in the provided image.
 
-![Face Detection Example](/Users/gabrielabezerra/dio/ai_vision_service/inputs/face-detection-demo.png)
+![Face Detection Example](inputs/face-detection-demo.png)
 
 How it works:
 - The Face API uses advanced machine learning algorithms to detect human faces in images.
@@ -21,7 +21,7 @@ How it works:
 
 I utilized the OCR functionality to extract text from images. It successfully recognized and extracted the text content from the provided image.
 
-![OCR Example](/Users/gabrielabezerra/dio/ai_vision_service/inputs/OCR1-demo.jpeg)
+![OCR Example](inputs/ocr-demo.jpeg)
 
 How it works:
 - OCR technology uses deep learning models to identify and extract text from images.
@@ -32,7 +32,7 @@ How it works:
 
 I explored the Image Analysis feature to automatically generate captions for images. It provided accurate and descriptive captions for the given image.
 
-![Image Analysis Example](/Users/gabrielabezerra/dio/ai_vision_service/inputs/ImageCaptioning-demo.png)
+![Image Analysis Example](inputs/ImageCaptioning-demo.png)
 
 How it works:
 - Image Analysis employs advanced computer vision techniques to understand the content of an image.
